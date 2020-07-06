@@ -2,7 +2,7 @@
 
 > The original project is amazing and I should follow the updates from there
 
-- The original project from the talented developper can be found (here)[https://github.com/pkalogiros/AudioMass]
+- The original project from the talented developper can be found [here](https://github.com/pkalogiros/AudioMass)
 - I've changed nothing but the way it runs by using electron (no need to use a webserver)
 
 
